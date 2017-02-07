@@ -11,7 +11,7 @@ public class MyDBConnection {
 
     private static final String DB_CONNECTION = "jdbc:mysql://localhost:3306/myawesomedb";
     private  static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "13241324";
+    private static final String DB_PASSWORD = "********";
 
     Connection myConnection ;
 
